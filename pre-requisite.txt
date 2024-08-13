@@ -1,0 +1,2 @@
+Update MongoURI in server > src > index.ts 
+with <username>:<password> 
